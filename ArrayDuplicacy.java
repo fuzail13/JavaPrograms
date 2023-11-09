@@ -1,3 +1,5 @@
+//Program to sort the duplicate elements array in ascending order.
+
 public class ArrayDuplicacy {
     public static void main(String[] args) {
         int arr[] = {2, 4, 40, 10, 10, 2, 1, 4, 2, 1, 10, 4, 40, 20};
