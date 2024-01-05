@@ -1,3 +1,3 @@
 # JavaPrograms
 
-Here you can find out my Java Programs.
+Here you can find out all my Practise Java Programs.
