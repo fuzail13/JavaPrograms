@@ -1,4 +1,4 @@
-//Writa a Java Program to find smallest element in an array
+//Writa a Java Program to find smallest element in an array.
 
 
 import java.util.Scanner;

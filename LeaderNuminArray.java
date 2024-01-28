@@ -10,19 +10,14 @@ public class LeaderNuminArray {
 
         List arrylst = new ArrayList<>(Arrays.asList(arr));
 
-
         System.out.println(arrylst);
-
-
         showleadernumber(arrylst);
 
     }
-
         static void showleadernumber(List arr) {
 
             Iterator itr = arr.iterator();
             while (itr.hasNext())
                 System.out.println(itr.next());
-
         }
 }
